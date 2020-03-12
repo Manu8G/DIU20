@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Nomadizers
 
-Descripción: 
+Descripción: No me dejaba ponerlo en la carpeta de la practica 1 por ello lo he tenido que dejar donde esta
 
 Logotipo: 
 
