@@ -30,18 +30,18 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>>Esta aplicación a simple vista me ha parecido de las mejores en su genero por eso la he elegido. En general este tipo de aplicaciones se basan en una buena primera impresión y despues fallan en aspectos basicos buscando el mejor trabajo invertido y el mayor beneficio posible.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> He intentado crear personajes lo mas realistas posibles, uno con una experiencia positiva y otro con una negativa.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Las experiencia no queria que fueran algo normal pero tampoco algo muy rebuscado e imposible asi que hice que uno creara un viaje, como tenia que ser con desconocidos pense que fuera algo poco habitual pero posible (el viaje a la Super Bowl) y otro mas normal pero tampoco mucho(la dueña de la cafeteria que va en caravana por Inglaterra). 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
