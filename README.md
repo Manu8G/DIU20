@@ -36,8 +36,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> He intentado crear personajes lo mas realistas posibles, uno con una experiencia positiva y otro con una negativa.
-(img/Maria.PNG)
-(img/Jesus.PNG)
+![Método UX](img/Maria.PNG)
+![Método UX](img/Jesus.PNG)
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
