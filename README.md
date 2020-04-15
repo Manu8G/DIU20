@@ -43,8 +43,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 
 >>> Las experiencia no queria que fueran algo normal pero tampoco algo muy rebuscado e imposible asi que hice que uno creara un viaje, como tenia que ser con desconocidos pense que fuera algo poco habitual pero posible (el viaje a la Super Bowl) y otro mas normal pero tampoco mucho(la dueña de la cafeteria que va en caravana por Inglaterra). 
-(img/Maria_j.PNG)
-(img/Jesus_j.PNG)
+![Método UX](img/Maria_j.PNG)
+![Método UX](img/Jesus_j.PNG)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -106,7 +106,9 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Partiendo de la experiencia vista en Nomadizer, con la cual no tengo ningún problema puesto que la veo adecuada para este tipo de paginas, yo usaría una tipografía la cual fuera amigable y un poco mas exótica la cual incite un poco a la aventura (como por ejemplo: https://www.tipografias.org/f-3200-long_cool_grandma.html , pero esta tipografía no se usaría por ejemplo en las conversaciones de chat entre usuarios sino en algunos títulos y apartados donde sus contenidos tendrían una tipografía mas seria para acentuar la fácil compresión por parte del usuario).
+ Y para los pocos iconos que usaría en la aplicación usaría unos iconos amigables pero serios al mismo tiempo para infundir tranquilidad y confianza en el usuario. Yo partiría sobre la base que tiene creada Nomadizer pues me parece que en general la pagina cumple con su cometido aunque añadiría los cambios que he comentado en las anteriores practicas como el sistema de búsqueda por palabra clave y algunos cambios en el diseño para evitar la sensación de vacío que genera el actual diseño y una mejor organización de la información, tras aplicar estos cambios yo haría una prueba de usabilidad para ver como diferentes usuarios reaccionan al antes y al después y sobre ello tomaría diversas medidas. Ademas usaria tonalidades que se relacionaran bien con el logotipo de la pagina como las siguientes:
+ 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
