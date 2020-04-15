@@ -137,13 +137,13 @@ Término | Significado
 >>>En la siguiente practica realialice una malla de recepcion de información, esto me dio nuevos aspectos que no habia explorado como la posibilidad de que existiera una aplicación movil pero no encontre ninguna y me parecio una idea apropiada ahora que la mayoria de usuarios utilizan mas para navegar por internet un movil antes que un ordenador, así que una aplicación de movil la haria mas accesible a todos los usuarios. También realice una matriz de tareas con los tipos de usuarios que usarian en mayor o menor medida dichas tareas y confirme lo que ya sospechaba, cualquier tipo de usuario ya registrado(creador de actividades o usuario que se apunta a las actividades) puedes usar toda clase de opciones las vaya a usar o no, cosa que tambien viene bien puesto que si un usuario que se apunta a actividades decide un dia crear su propia actividad tiene que tener la posibilidad de hacerlo. Lo siguiente que hice fue el sitemap lo mas simple posible puesto que en la pagina principal hay muchisimos encalces y la gran mayoria son a viejes, agencias de viaje o blogs, cosas que van variando con el tiempo asi que decidi incluir los apartados mas importantes a pesar de existir mas. Y por ultimo cree los bocetos Lo-Fi con las ideas que habia descrito en apartados anteriores, son pocos puesto que en general la pagina me parece que esta bastante bien estructurada en cuanto a diseño.
 
 >>>En cuanto a los patrones los basicos serian:
->>>>Caja de busqueda: para encontrar por palabra clave viajes con diversas actividades, eventos, lugares a visitar...
->>>>Un sistema de navegacion con un sistema nodos y enlaces, siendo especifico seria del tipo "tab navigation".
->>>>Tambien seria necerasio un input, para la entrada masiva de datos a la hora de registrar a un usuario, al crear un evento y en los chats entre usuarios.
->>>>Para mostrar la información de los contenidos de la pagina tales como imagnes y textos descriptivos, como por ejemplo un listinlay para las diferentes actividades ofertadas por los usuarios y un carousel para la publicidad de la pagina asi arreglando problemas de vacio en las paginas.
->>>>Un asistente que avise sobre la proximidad de un evento y sobre diversos viajes que se hayan puesto en oferta los cuales el usuario selecciono.
->>>>Un sistema de rigistro de usuarios con el clasico "sign in".
->>>>Un sistema de paginacion orientada a dispositivos.
+* Caja de busqueda: para encontrar por palabra clave viajes con diversas actividades, eventos, lugares a visitar...
+* Un sistema de navegacion con un sistema nodos y enlaces, siendo especifico seria del tipo "tab navigation".
+* Tambien seria necerasio un input, para la entrada masiva de datos a la hora de registrar a un usuario, al crear un evento y en los chats entre usuarios.
+* Para mostrar la información de los contenidos de la pagina tales como imagnes y textos descriptivos, como por ejemplo un listinlay para las diferentes actividades ofertadas por los usuarios y un carousel para la publicidad de la pagina asi arreglando problemas de vacio en las paginas.
+* Un asistente que avise sobre la proximidad de un evento y sobre diversos viajes que se hayan puesto en oferta los cuales el usuario selecciono.
+* Un sistema de rigistro de usuarios con el clasico "sign in".
+* Un sistema de paginacion orientada a dispositivos.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
