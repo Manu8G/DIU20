@@ -149,6 +149,7 @@ Término | Significado
 ----
 
 >>> El actual logotipo de la pagina es a mi modo de ver bastante adecuado puesto que incita a la aventura, para todos los publicos y no es algo muy exagerado.
+
 ![Método UX](img/logo.png)
 
 ## Paso 4. UX Check (Usability Testing) 
