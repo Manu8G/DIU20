@@ -101,6 +101,56 @@ Término | Significado
 
 ## Paso 3. Make (Prototyping) 
 
+![Método UX](img/moodboard.png) 3.A Analisis de MuseMap
+-----
+>>>Los creadores de MuseMap antes de nada, charlaron sobre los usuarios a los que iría dirigida
+la aplicación y sus necesidades. Esto no ayuda a ahorrar tiempo a la hora de preguntarles a los
+usuarios porque por ejemplo con esta aplicación que va dirigida a gente interesada por el arte,
+debemos preguntarle a la gente que le interese o le guste el arte, ademas de a gente que le guste
+hacer turismo viendo arte o visitando zonas culturales. Así que a la hora de preguntarle a un usuario
+nuestras primera preguntas deberían de ayudarnos a identificar si la persona a la que le preguntamos
+pertenece al grupo de usuarios que usaría la aplicación.
+
+>>>Su siguiente paso fue visitar un lugar cultural con el clima optimo para recabar información
+sobre como estos usuarios interaccionaban con el arte. Estos apreciaron que los usuarios estaban
+poco tiempo en contacto con el arte, con el cual se fotografiaban y del cual no había ninguna
+información al respecto por la zona.
+
+>>>Después de recabar esta información realizaron una matriz de tareas que contiene los
+diferentes competidores y como estos realizan diversas tareas. En esta matriz encontraron que
+varios de los puntos que ellos querían implementar en su aplicación no están cubiertos por ninguno
+de los competidores, como por ejemplo información de la obra de arte o opiniones sobre los
+usuarios.
+
+>>>Mas tarde continuaron con una lluvia de ideas con el fin de crear un mapa de empatía para
+poder extraer mejor la información de los usuarios. Tras esto empezaron a preguntar a los usuarios
+de los que recabaron la información necesaria para realizar un mapeo de afinidad. Con este mapeo
+descubrieron existía una gran brecha entre lo que habían pensado y la conclusión a la que llegaron
+tras recabar la información.
+
+>>>Con todo esto pasaron a crear dos usuarios ficticios para trabajar sobre ellos, y con esto se
+centran en uno de sus usuarios y crean una experiencia de usuario junto con un mapa de
+experiencia. Tras esto crearon varios escenarios mas para recabar mas información, planteando
+problemas y dándoles soluciones sobre la marcha. Después realizaron un flujo de usuario para luego
+dar el salto a la interfaz.
+
+>>>En el estudio del diseño realizaron diversos bocetos de la interfaz, hasta llegar a uno que les
+convenció a todos, tras esto estuvieron realizando diversas pruebas a ordenador para ver como
+funcionaba el wireframe. Lo siguiente que hicieron fue una prueba de usabilidad del modelo digital,
+la cual ayudo a ver que tenían que cambiar diferentes características del sistema de filtrado,
+llegando así a un posible resultado final el cual no es decisivo pero realiza su función.
+Tras haber descrito todo el trabajo realizado en el desarrollo de MuseMap veo que yo en
+practicas anteriores he realizado un trabajo igual o muy similar a la hora de describir una pagina de
+viaje con desconocidos como Nomadizer, a habido casos en los que no puedo opinar puesto que por
+ejemplo yo no he realizado una prueba de usabilidad de mi posible mejora de la interfaz ni he
+llevado a cabo mis ideas de mejora con respecto a la pagina. Por ejemplo yo he realizado una matriz
+de tareas refiriendome a los tipos de usuarios que iban a usar mi pagina mientras que ellos se han
+centrado en si la competencia incluía o no estas tareas.
+
+>>>Creo que la parte que mas importante a sido a la hora del desarrollo en su trabajo a sido tras
+la lluvia de ideas para el mapa de empatía, ver que lo que ellos pensaban que los usuarios querían y
+los que los usuarios buscaban eran cosas bastante diferentes. Esto les salvo de realizar una
+aplicación la cual no iba a interesar a los usuarios a los que supuestamente iba dirigida.
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
@@ -153,6 +203,26 @@ Término | Significado
 >>> El actual logotipo de la pagina es a mi modo de ver bastante adecuado puesto que incita a la aventura, para todos los publicos y no es algo muy exagerado.
 
 ![Método UX](img/logo.png)
+
+
+![Método UX](img/ABtesting.png) 3.d Documentacion
+----
+
+>>>Con esta practica he aprendido que la opinión que tu crees que los usuarios pueden tener y la
+que realmente tienen pueden ser completamente diferentes, puesto que es lo que les pasa a este
+grupo, yo no se mucho de arte ni de la gente a la que le gusta este así que suponía todo el rato que
+tenían razón en sus deducciones. Algo que ya sospechaba es que es mejor recabar información de
+los usuarios y aplicar la idea mas generalizada a tu pagina, esto añadiendo siempre un criterio para
+que la pagina sea funcional y no se dispare la complejidad si no es necesario.
+
+>>>Algo que también he aprendido es que hay que ver antes si existe algún tipo de competencia en el
+tema que se aborda y si es así una de las primeras cosas es comprobar como actúa esta competencia
+y si se puede mejorar aspectos que tengan o aplicar otros nuevos. En general su proyecto me ha
+parecido bastante interesante para promocionar las zonas culturales a la gente puesto que yo mismo
+muchas veces me he puesto en la situación de querer dar un paseo por algún lugar publico pero no
+tener ganas de ir a los que ya he visitado con anterioridad, por eso una aplicación como esta seria
+una solución a mi problema.
+
 
 ## Paso 4. UX Check (Usability Testing) 
 
