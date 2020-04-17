@@ -145,6 +145,8 @@ Término | Significado
 * Un sistema de rigistro de usuarios con el clasico "sign in".
 * Un sistema de paginacion orientada a dispositivos.
 
+>>>Enlace al video resumen: https://youtu.be/0TeKxgLMrDo
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
