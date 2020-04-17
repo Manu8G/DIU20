@@ -60,6 +60,24 @@ este filtro buscador me choco mucho y quería tratarla.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+>>>La pagina de entrada me parece que contiene demasiada información pudiéndose
+resumir muchos de sus apartados y así no saturar tanto al usuario como por ejemplo
+el apartado de Nuestros Nomadizers opinan, todos sabemos que una empresa no se va
+a echar mierda a si misma y va a poner comentarios despectivos o con poca
+puntuación, o el de “Explora El Mundo” que es una ampliación de la invitación a
+registrarse en la pagina.
+Ademas de esto no hubiera puesto la opción de hacerte premiun tan arriba
+puesto que este tipo de cosas suele chocar a la gente yo lo hubiera puesto arriba del
+todo junto a explora como un apartado en el que al darle click te diera mas
+información pero esto después de que el usuario se hubiera creado la cuenta. Otros
+apartados como el de las agencias de viaje y el de hacerse influencer de la pagina los
+veo apropiados puesto que hay gente que prefiere un viaje bien organizado y otros
+que la idea de conseguir fama y viajar es como un sueño.
+Por ultimo la falta de un buscador para filtrar el contenido de la pagina me
+parece esencial aunque no realize demasiado bien su tarea es algo que el usuario
+agradece puesto que le ahorra tiempo.
+>>>Nota final: 6'6.
+
 
 >>>Enlace: xls/Usability-review-template.pdf 
 
