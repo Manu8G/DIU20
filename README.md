@@ -30,7 +30,19 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>>Esta aplicación a simple vista me ha parecido de las mejores en su genero por eso la he elegido. En general este tipo de aplicaciones se basan en una buena primera impresión y despues fallan en aspectos basicos buscando el mejor trabajo invertido y el mayor beneficio posible.
+>>>Las aplicaciones asignadas son todas muy similares, pero con pequeñas variaciones.
+Cada una tiene apartados diferentes a las otras pero también tienen apartados
+idénticos como el de viajar acompañado con desconocidos o el que te pone en
+contacto con empresas especializadas como agencias de viaje, de alquiler de coches...
+Amovens por ejemplo se centra mas en viajes en coche y en el alquiler de los
+mismos, ademas de esto puedes alquilar tu coche a desconocidos, no he escogido esta
+por que no me llevo muy bien con los coches.
+Al final me he decantado por Nomadizers puesto que me ha gustado mucho su
+interfaz y como tenia estructurado sus diferentes apartados, como por ejemplo por
+continentes, al principio quería proponerme un reto con esta pagina al no ver errores a
+primera vista pero a la hora de hacerlo hubo algo que me choco mucho y era la falta
+de un buscador, es cierto que la pagina esta muy bien estructurada pero la falta de
+este filtro buscador me choco mucho y quería tratarla.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -48,11 +60,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>>Enlace: xls/Usability-review-template.pdf 
+
 
 
 ## Paso 2. UX Design  
