@@ -5,9 +5,9 @@ Grupo: DIU1_01AABB.  Curso: 2019/20
 
 Proyecto: Nomadizers
 
-Descripción: No me dejaba ponerlo en la carpeta de la practica 1 por ello lo he tenido que dejar donde esta
+Descripción: 
 
-Logotipo: 
+Logotipo: ![Método UX](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
@@ -79,12 +79,12 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![Método UX](img/Boceto_LOFI_Perfil.png)
-![Método UX](img/Boceteo_LOFI_Foro.png)
+![Método UX](img/Boceto_LOFI_Perfil.PNG)
+![Método UX](img/Boceteo_LOFI_Foro.PNG)
 
 ## Paso 3. Make (Prototyping) 
 
-![Método UX](img/moodboard.png) 3.A Analisis de MuseMap
+3.A Analisis de MuseMap
 -----
 >>>Los creadores de MuseMap antes de nada, charlaron sobre los usuarios a los que iría dirigida
 la aplicación y sus necesidades. Esto no ayuda a ahorrar tiempo a la hora de preguntarles a los
