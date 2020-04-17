@@ -78,9 +78,7 @@ parece esencial aunque no realize demasiado bien su tarea es algo que el usuario
 agradece puesto que le ahorra tiempo.
 >>>Nota final: 6'6.
 
-
->>>Enlace: xls/Usability-review-template.pdf 
-
+![Método UX](xls/Usability-review-template.pdf) 
 
 
 ## Paso 2. UX Design  
