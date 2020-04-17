@@ -79,8 +79,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![Método UX](img/Boceto_LOFI_Perfil.PNG)
-![Método UX](img/Boceteo_LOFI_Foro.PNG)
+![Método UX](img/Boceta_LOFI_Perfil.PNG)
+![Método UX](img/Boceto_LOFI_Foro.PNG)
 
 ## Paso 3. Make (Prototyping) 
 
