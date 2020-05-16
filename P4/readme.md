@@ -1,7 +1,10 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
-
+|Grupo|Proyecto evaluado|
+|--------|-------|
+| - MMM| - [Trabajo de MMM](https://github.com/patchispatch/DIU20)|
+| - Mumavi| - [Trabajo de Mumavi](https://github.com/javiercdag/DIU20)|
+| - Lucete| - [Trabajo de Lucete](https://github.com/IvanitiX/DIU20)|
 
 ## Caso 1
 
