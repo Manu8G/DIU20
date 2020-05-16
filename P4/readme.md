@@ -5,17 +5,16 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1
 
-Descripcion y hoja de valoración.    
+![Método UX](P4/)   
 
 
 ## Caso 2
 
-Descripcion y hoja de valoración.  
-
+![Método UX](P4/)
 
 ## Caso 3
 
-Descripcion y hoja de valoración.   
+![Método UX](P4/)
 
 ## User Testing
 
