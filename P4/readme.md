@@ -5,24 +5,24 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1
 
-![Método UX](P4/DIU1-MMM-review.xls)   
+[>>DIU20/P4/DIU1-MMM-review.xls](https://github.com/Manu8G/DIU20/blob/master/P4/DIU1-MMM-review.xls)
 
 
 ## Caso 2
 
-![Método UX](P4/DIU2-Mumavi-review.xls)
+[>>DIU20/P4/DIU2-Mumavi-review.xls](https://github.com/Manu8G/DIU20/blob/master/P4/DIU2-Mumavi-review.xls)
 
 ## Caso 3
 
-![Método UX](P4/DIU3-Lucete-review.xls)
+[>>DIU20/P4/DIU3-Lucete-review.xls](https://github.com/Manu8G/DIU20/blob/master/P4/DIU3-Lucete-review.xls)
 
 ## User Testing
 
-	Experiencia 1:
+	Experiencia 1: (María Montes De Oca Lorca) a la hora de moverse por la pagina hay veces que le da a los iconos de abajo lo cual le resulta un poco molesto porque muchas veces no sabe como volver a donde estaba, le gustaria alguna manera de desactivar este panel y ponerlo como otro menu lateral o activarlo cual pulse un icono el cual ella pueda situar en un punto de la pantalla que no le genere conflicto.
 
-	Experiencia 2:
+	Experiencia 2: (Jesús Garrido Camacho) acaba de alquilar un piso y quiere publicarlo para atraer a compañeros de piso y asi no pagar tanto alquiler. Quiere decir que vive cerca de la facultad de enfermeria pero no le aparece en el selector de lugares de interes y le gustria de alguna manera añadir esta información para atraer a mas interesados.
 
-	Experiencia 3:
+	Experiencia 3: (María Montes De Oca Lorca) le gustaria una manera de en la pagina del evento poder acceder rapidamente a los diferentes elementos sin tener que bajar a buscarlos, con alguna especie de navbar o menu lateral.
 
 
 ## Conclusiones
